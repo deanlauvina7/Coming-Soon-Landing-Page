@@ -4,7 +4,9 @@ Thanks for checking out my coming soon landing page project
 
 ## The project
 
-My goal for this project was to create a coming soon landing page that different companies use to promote their products. In this case, it was for a fictional developer confernce that would take place next year.
+My goal for this project was to create a coming soon landing page that different companies use to promote their products. In this case, it was for a fictional developer conference that would take place next year.
+
+This project continuously counts down from the original date up until the day of the conference. From there, the timer will stop and will display a landing page titled "Launched!"
 
 ## Tools I used 
 HTML, CSS, Javascript
