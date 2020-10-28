@@ -1,2 +1,18 @@
-# Coming-Soon-Landing-Page
- This is a coming soon landing page built with HTML, CSS, and Javascript
+## Welcome! 
+
+Thanks for checking out my coming soon landing page project
+
+## The project
+
+My goal for this project was to create a coming soon landing page that different companies use to promote their products. In this case, it was for a fictional developer confernce that would take place next year.
+
+## Tools I used 
+HTML, CSS, Javascript
+
+## Giving feedback
+
+Feedback is always welcome, so if you have any to give on this project please email deanlauvina7@gmail.com
+
+This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+**Thanks again for stopping by and have a great day!** 
